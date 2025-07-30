@@ -44,10 +44,6 @@ The dataset used is a CSV file named
 - Interactive candlestick chart to visualize market behavior
 - Histogram of returns to observe volatility and distribution
 
-# Visualizations
-![Closing Price Line Chart](https://postimg.cc/vgPYMvzf)
-![Candlestick Chart](https://postimg.cc/vgPYMvzf)
-
 # Behind the Analysis
 
 - Time-series data handling and date manipulation
