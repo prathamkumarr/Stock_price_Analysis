@@ -53,7 +53,7 @@ The dataset used is a CSV file named
 
 # Open Notebook in colab
 
-[![Open in Colab](https://colab.research.google.com/github/DatumLearning/Single_Stock_Analysis/blob/main/Stock_Price_Data_Analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DatumLearning/Single_Stock_Analysis/blob/main/Stock_Price_Data_Analysis.ipynb)
 
 
 
