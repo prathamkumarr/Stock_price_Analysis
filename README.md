@@ -55,6 +55,14 @@ The dataset used is a CSV file named
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/prathamkumarr/Stock_price_Analysis/blob/main/Stock_Price_Data_Analysis.ipynb)
 
+# License
+This project is licensed under the MIT License. Feel free to modify and use it for your own projects.
+
+Author
+[Pratham Kumar]
+Email: prathamkumar736@gmail.com
+GitHub: prathamkumarr
+
 
 
 
