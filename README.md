@@ -11,7 +11,7 @@ This short project is focused on exploratory data analysis (EDA) and visualizati
    - Checked for nulls and basic statistics
 
 2. **Date Handling**  
-   - Converted the date column to `datetime` format
+   - Converted the date column to 'datetime' format
    - Extracted day, month, year, and weekday features for deeper insights
 
 3. **Visualizations Galore**  
@@ -36,7 +36,7 @@ This short project is focused on exploratory data analysis (EDA) and visualizati
 # Data Used
 
 The dataset used is a CSV file named 
-[TCS.csv](https://raw.githubusercontent.com/DatumLearning/Single_Stock_Analysis/main/TCS.csv), which contains historical stock price data for TCS including columns like `Open`, `High`, `Low`, `Close`, and `Date`.
+[TCS.csv](https://raw.githubusercontent.com/DatumLearning/Single_Stock_Analysis/main/TCS.csv), which contains historical stock price data for TCS including columns like 'Open', 'High', 'Low', 'Close', and 'Date'.
 
 # Output Highlights
 
